@@ -1,0 +1,3 @@
+$ cmd for tt1
+cd workspace/example5/tt1
+javac -cp .:/usr/share/java/junit4.jar src/*/java/tt1/*.java
